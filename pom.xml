@@ -23,16 +23,6 @@
 		</dependency>
 			
 	</dependencies>
-	<distributionManagement>
-      <snapshotRepository>
-        <id>jArtifactory</id>
-        <url>http://44.204.16.13:8082/artifactory/ELPDevOpsB5/</url>
-      </snapshotRepository>
-      <repository>
-        <id>Artifactory</id>
-        <url>http://44.204.16.13:8082/artifactory/ELPDevOpsB5/</url>
-      </repository>
-    </distributionManagement>
 	<build>
 		<finalName>ELPDevOps</finalName>
 	</build>
